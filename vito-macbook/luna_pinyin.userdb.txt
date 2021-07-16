@@ -1,0 +1,222 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	313
+#@/user_id	vito-macbook
+an yao qiu 	按要求	c=1 d=0.600496 t=313
+an zhuang 	安裝	c=1 d=0.97531 t=313
+ben di 	本地	c=2 d=1.66952 t=313
+bi jiao 	比較	c=1 d=0.755784 t=313
+bi jiao 	比餃	c=1 d=0.752014 t=313
+bian xie 	编写	c=2 d=1.29133 t=313
+biao 	表	c=6 d=4.53022 t=313
+biao zhu 	標柱	c=1 d=0.970446 t=313
+bu 	步	c=0 d=0.0615697 t=313
+bu fen 	部分	c=1 d=0.810584 t=313
+bu xie 	不写	c=1 d=0.697676 t=313
+bu yao 	不要	c=1 d=0.733447 t=313
+cai hui 	才会	c=1 d=0.839457 t=313
+cha kan 	查看	c=3 d=1.77313 t=313
+chong pao 	重跑	c=2 d=1.59735 t=313
+chong tu 	衝突	c=1 d=1.05783 t=313
+chong tu ma 	衝突吗	c=1 d=0.97531 t=313
+ci ku 	词库	c=5 d=2.51674 t=313
+ci yu 	词语	c=2 d=1.79976 t=313
+cun zai 	存在	c=2 d=1.52673 t=313
+da bu chu 	打不出	c=0 d=0.0814647 t=313
+da bu chu lai 	打不出来	c=2 d=1.80878 t=313
+da xiao 	大小	c=3 d=2.41964 t=313
+da yi ci 	打一次	c=1 d=0.786628 t=313
+dai ma 	代碼	c=1 d=0.878095 t=313
+dang qian 	當前	c=0 d=0.099005 t=313
+dang qian shi jian 	當前時間	c=1 d=0.995012 t=313
+dao 	到	c=1 d=0.865022 t=313
+dao qi 	到期	c=1 d=0.932394 t=313
+de 	的	c=18 d=8.92604 t=313
+de shi yong 	的使用	c=1 d=0.904837 t=313
+di er bu 	第二步	c=1 d=0.559898 t=313
+di san 	第三	c=0 d=0.0615697 t=313
+di san bu 	第三步	c=1 d=0.618783 t=313
+di yi bu 	第一步	c=1 d=0.548812 t=313
+dian 	点	c=0 d=0.067368 t=313
+dian nao 	電腦	c=1 d=0.744532 t=313
+diao yong 	調用	c=3 d=1.87851 t=313
+dou po 	斗破	c=1 d=1 t=313
+du 	读	c=1 d=0.895834 t=313
+dui bi 	对比	c=1 d=0.88692 t=313
+duo duan 	多端	c=1 d=0.99005 t=313
+fa sheng 	發生	c=2 d=1.91221 t=313
+fan kui 	反饋	c=1 d=0.927743 t=313
+fan xiao 	返校	c=1 d=0.873716 t=313
+fang shi 	方式	c=1 d=0.571209 t=313
+fen shu 	分數	c=1 d=0.946485 t=313
+fu 	父	c=0 d=0.0790571 t=313
+fu gai 	覆蓋	c=2 d=1.71732 t=313
+fu jie dian 	父節點	c=2 d=1.60107 t=313
+ge ren 	個人	c=3 d=1.873 t=313
+gen jie 	根結	c=0 d=0.067368 t=313
+gen jie dian 	根結点	c=2 d=1.40684 t=313
+geng gai 	更改	c=1 d=0.946485 t=313
+geng xin 	更新	c=1 d=0.847894 t=313
+gong neng 	功能	c=0 d=0.0778801 t=313
+gui fan 	規範	c=1 d=0.65377 t=313
+guo lv 	過濾	c=1 d=0.83527 t=313
+hai shi 	還是	c=1 d=0.951229 t=313
+han shu 	函數	c=3 d=1.85857 t=313
+han shu ming 	函數名	c=1 d=0.588605 t=313
+han shu qian ming 	函數簽名	c=1 d=0.865022 t=313
+hao 	好	c=1 d=0.522046 t=313
+he 	和	c=7 d=4.27738 t=313
+hou 	后	c=1 d=0.839457 t=313
+hou zhui 	後綴	c=1 d=0.882497 t=313
+hua 	花	c=1 d=0.737123 t=313
+huan suan 	換算	c=1 d=0.822835 t=313
+hui 	会	c=1 d=0.965605 t=313
+ji chu 	基礎	c=1 d=0.960789 t=313
+ji qi xue xi 	機器學習	c=1 d=0.763379 t=313
+ji xin 	迹心	c=1 d=0.740818 t=313
+ji yi 	記憶	c=0 d=0.0778801 t=313
+ji yi gong neng 	記憶功能	c=1 d=0.782705 t=313
+ji zhu 	記住	c=0 d=0.0790571 t=313
+ji zhu le 	記住了	c=1 d=0.794534 t=313
+jiao 	叫	c=1 d=0.737123 t=313
+jiao ben 	腳本	c=3 d=2.18313 t=313
+jie dian 	節點	c=5 d=3.95145 t=313
+jie guo 	結果	c=1 d=0.826959 t=313
+jie jue 	解决	c=1 d=0.955997 t=313
+jie mian 	界面	c=1 d=0.856415 t=313
+jin xing 	进行	c=2 d=1.33777 t=313
+jing 	径	c=1 d=0.965605 t=313
+jiu 	就	c=1 d=0.790571 t=313
+jiu neng 	就能	c=1 d=0.843665 t=313
+jiu xing 	就行	c=1 d=0.744532 t=313
+kai shi 	开始	c=1 d=0.690734 t=313
+kai yuan 	開源	c=0 d=0.0752014 t=313
+kai yuan shu ru fa 	開源輸入法	c=1 d=0.755784 t=313
+ke yi 	可以	c=1 d=0.694197 t=313
+ke zi 	刻字	c=1 d=0.895834 t=313
+la ji 	垃圾	c=1 d=0.843665 t=313
+lai 	来	c=1 d=0.995853 t=313
+le 	了	c=2 d=1.44498 t=313
+lei ming 	類名	c=1 d=0.615697 t=313
+li 	里	c=1 d=0.621885 t=313
+liang ge 	两个	c=1 d=0.831104 t=313
+liu 	流	c=1 d=0.683861 t=313
+liu cheng 	流程	c=1 d=0.900325 t=313
+lu jing 	路徑	c=1 d=0.985112 t=313
+ma 	吗	c=0 d=0.0970446 t=313
+mei guan 	美觀	c=1 d=0.759572 t=313
+mei you 	沒有	c=1 d=0.778801 t=313
+mei you 	美優	c=1 d=0.774916 t=313
+ming 	名	c=0 d=0.0585669 t=313
+ming cheng 	名稱	c=1 d=0.609571 t=313
+ming xian 	明显	c=1 d=0.83527 t=313
+mo ban 	模版	c=1 d=0.951229 t=313
+mo ren 	默認	c=1 d=0.71177 t=313
+mo xing 	模型	c=1 d=0.909373 t=313
+mo xing 	模形	c=1 d=0.904837 t=313
+mou ge 	某个	c=1 d=0.843665 t=313
+na xie 	哪些	c=1 d=0.913931 t=313
+neng kan 	能看	c=1 d=0.529935 t=313
+neng yong 	能用	c=1 d=0.909373 t=313
+ni hao 	泥豪	c=1 d=0.657047 t=313
+pei zhi 	配置	c=8 d=4.11085 t=313
+pei zhi wen jian 	配置文件	c=1 d=0.806541 t=313
+piao liang 	漂亮	c=1 d=0.882497 t=313
+ping guo 	蘋果	c=2 d=1.74745 t=313
+ping lun 	评论	c=2 d=1.34069 t=313
+ping tai 	平台	c=1 d=0.941765 t=313
+qi ta 	其他	c=1 d=0.955997 t=313
+qi xian 	期限	c=1 d=0.941765 t=313
+qian ming 	簽名	c=0 d=0.0860708 t=313
+quan xian 	權限	c=1 d=0.927743 t=313
+ran hou 	然後	c=1 d=0.594521 t=313
+ren wu 	任務	c=2 d=1.42843 t=313
+ru he 	如何	c=5 d=2.92221 t=313
+ruan jian 	軟件	c=1 d=0.752014 t=313
+shang 	上	c=1 d=0.869358 t=313
+she ding 	設定	c=2 d=1.60144 t=313
+she zhi 	設置	c=2 d=1.12039 t=313
+shen du 	深度	c=0 d=0.099005 t=313
+shen du xue xi 	深度學習	c=1 d=0.995012 t=313
+shen me 	什麼	c=2 d=0.985992 t=313
+shen qing 	申請	c=1 d=0.946485 t=313
+shi 	是	c=4 d=2.211 t=313
+shi fou 	是否	c=1 d=0.852144 t=313
+shi jian 	实践	c=2 d=1.81873 t=313
+shi jian 	時間	c=0 d=0.099005 t=313
+shi xi 	实习	c=1 d=0.923116 t=313
+shi xiong 	師兄	c=2 d=0.962897 t=313
+shi yan 	實驗	c=1 d=0.946485 t=313
+shi yong 	使用	c=3 d=1.65105 t=313
+shi you 	是有	c=1 d=0.704688 t=313
+shi zhan 	實戰	c=1 d=1 t=313
+shu ju 	數據	c=5 d=3.41798 t=313
+shu ju ku 	數據庫	c=2 d=1.65128 t=313
+shu ru fa 	輸入法	c=0 d=0.0752014 t=313
+shu xing 	屬性	c=2 d=1.58514 t=313
+shua dan 	刷单	c=1 d=0.869358 t=313
+shuang ta 	雙塔	c=1 d=0.900325 t=313
+sou su 	搜素	c=1 d=0.839457 t=313
+su cai 	素材	c=1 d=0.831104 t=313
+ti ji 	體積	c=1 d=0.786628 t=313
+ti jiao 	提交	c=2 d=1.50797 t=313
+tian xie 	添寫	c=1 d=0.603506 t=313
+tong bu 	同步	c=6 d=3.37739 t=313
+tong guo 	通过	c=1 d=0.951229 t=313
+tu 	途	c=1 d=0.960789 t=313
+wei 	为	c=2 d=1.40214 t=313
+wen jian 	文件	c=4 d=2.34225 t=313
+wen jian 	文鑒	c=1 d=0.802519 t=313
+wen jian jia 	文件夾	c=3 d=2.46036 t=313
+xia 	下	c=1 d=0.860708 t=313
+xia de 	下的	c=1 d=0.798516 t=313
+xia lai 	下来	c=1 d=0.913931 t=313
+xian yao 	先要	c=1 d=0.802519 t=313
+xie ge 	写个	c=1 d=0.740818 t=313
+xie le 	写了	c=1 d=0.748264 t=313
+xie yi shou 	写一手	c=1 d=0.878095 t=313
+xin de 	新的	c=1 d=0.537944 t=313
+xin jian 	新建	c=5 d=3.0428 t=313
+xin ku le 	辛苦了	c=1 d=0.527292 t=313
+xin xi 	信息	c=1 d=0.891366 t=313
+xu ni 	虛擬	c=1 d=0.771052 t=313
+xue xi 	學習	c=0 d=0.099005 t=313
+yan chang 	延長	c=1 d=0.937067 t=313
+yao bu yao 	要不要	c=1 d=0.891366 t=313
+yi ge 	一个	c=1 d=0.70822 t=313
+yi ji 	以及	c=2 d=1.54653 t=313
+yi jing 	已经	c=1 d=0.937067 t=313
+yi yang 	一样	c=1 d=0.822835 t=313
+yi zhang 	一張	c=1 d=0.774916 t=313
+yin cang 	隱藏	c=1 d=0.718924 t=313
+ying gai 	应该	c=1 d=0.701173 t=313
+yong hu 	用戶	c=5 d=2.6004 t=313
+you 	有	c=2 d=1.22939 t=313
+you duo shao 	有多少	c=1 d=0.860708 t=313
+yu que 	语雀	c=1 d=0.535261 t=313
+yuan cheng 	遠程	c=1 d=0.985112 t=313
+yun xing 	运行	c=1 d=0.865022 t=313
+yun xing 	雲興	c=1 d=0.767206 t=313
+zai 	在	c=1 d=0.847894 t=313
+zhe li 	着力	c=1 d=0.822835 t=313
+zhe li 	这里	c=1 d=0.826959 t=313
+zheng zai 	正在	c=1 d=0.759572 t=313
+zheng ze 	正則	c=1 d=0.831104 t=313
+zhi ding 	指定	c=1 d=0.980199 t=313
+zhi hou 	之後	c=1 d=0.923116 t=313
+zhi hou 	徵候	c=1 d=0.918512 t=313
+zhi jie 	直接	c=1 d=0.628135 t=313
+zhi jie 	肢解	c=1 d=0.625002 t=313
+zhong 	中	c=1 d=0.932394 t=313
+zhong wen 	中文	c=1 d=0.980199 t=313
+zhu ce 	註冊	c=1 d=0.923116 t=313
+zhu ti 	主題	c=1 d=0.733447 t=313
+zi dai 	自带	c=1 d=0.767206 t=313
+zi dong 	自动	c=1 d=0.856415 t=313
+zi ji 	自己	c=2 d=1.36325 t=313
+zi jie 	字節	c=1 d=0.818731 t=313
+zi yuan 	資源	c=3 d=1.74361 t=313
+zi yuan wen jian 	資源文件	c=1 d=0.909373 t=313
+zu jian 	組件	c=1 d=0.965605 t=313
